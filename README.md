@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredericruciak
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning javascript for pixinsight and C# / dontnet to develop plugin for NINA too
+- 🌱 I’m currently learning javascript for pixinsight and C# / dotnet to develop plugin for NINA too
 - 💞️ I’m really a newbie coming back to programming from my early years as an engineer in the 80's (machine language on 68HC11 and 68000 microprocessors)
 
 
